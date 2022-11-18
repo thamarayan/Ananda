@@ -1,0 +1,300 @@
+
+<div class="productsSection">
+    <h1>Categories</h1>
+</div>
+<!-- eliteSeries -->
+<section id="eliteSeries">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12 ">
+                <h1 class="productH1">Elite Series</h1>
+                <!-- <p class="productP">Chakkars | Flower Pots | Twinkling Star</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Elite Series/Tom & Jerry.png" class="img-fluid" alt="">
+                <figcaption>Tom & Jerry</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Elite Series/gold peacock.png" class="img-fluid" alt="">
+                <figcaption>Gold Peacock</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Elite Series/Flickr.png" class="img-fluid" alt="">
+                <figcaption>Flickr</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/eliteSeries" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ck Series -->
+<section id="ckSeries" style="background-color: #fff ;">
+    <div class="container-fluid cf-ss reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">CK Series</h1>
+                <!-- <p class="productP">MultiShots 10-25 | MultiShots 25-100 | MultiShots 100+</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/ckSeries/2 Bird.png" class="img-fluid" alt="">
+                <figcaption>2" Bird</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/ckSeries/3 Laxmi.png" class="img-fluid" alt="">
+                <figcaption>3" Lakshmi</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/ckSeries/Hydrogen Bomb Green.png" class="img-fluid" alt="">
+                <figcaption>Hydrogen Bomb</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/ckSeries" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- New Elite Series -->
+<section id="newEliteSeries">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">New Elite Series</h1>
+                <!-- <p class="productP">Bijili | Chorsa | Wala | Lakshmi | Bomb</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/New Elite Series/7 Shots.png" class="img-fluid" alt="">
+                <figcaption>7 Shots</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/New Elite Series/24 Carat Gold.png" class="img-fluid" alt="">
+                <figcaption>24 Carat Gold</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/New Elite Series/Alice.png" class="img-fluid" alt="">
+                <figcaption>Alice</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/newEliteSeries" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Kids Zone -->
+<section id="kidsZone" style="background-color: #fff ;">
+    <div class="container-fluid cf-ss reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Kids Zone</h1>
+                <!-- <p class="productP">15-20 Items | 20-30 Items | 30-40 Items | 40+ Items</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/kidsZone/emoji.png" class="img-fluid" alt="">
+                <figcaption>Emoji</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/kidsZone/fruitninja.png" class="img-fluid" alt="">
+                <figcaption>Fruit Ninja</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/kidsZone/star gun.png" class="img-fluid" alt="">
+                <figcaption>Star Gun</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/celebrationPack" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Multi Shots -->
+<section id="multiShots">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Multi Shots</h1>
+                <!-- <p class="productP">Fountain | Wheel | Peacock | Flower Bomb | Stone | Pencil</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Multi Shots/12 Star Gold.png" class="img-fluid" alt="">
+                <figcaption>12 Star Gold</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Multi Shots/Avatar.png" class="img-fluid" alt="">
+                <figcaption>Avatar</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Multi Shots/Jack Pot.png" class="img-fluid" alt="">
+                <figcaption>Jack Pot</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/multishots" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Sky SHootups -->
+<section id="skyShootups" style="background-color: #fff ;">
+    <div class="container-fluid cf-ss reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Sky Shootups</h1>
+                <!-- <p class="productP">2"Comets | 3"Comets | 4"Comets</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/SkyShots/2.25/Nayagara Falls.png" class="img-fluid" alt="">
+                <figcaption>Nayagara Falls</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/SkyShots/2-3pcs/Coco.png" class="img-fluid" alt="">
+                <figcaption>Coco</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/SkyShots/4/AXN.png" class="img-fluid" alt="">
+                <figcaption>AXN</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/products/comets" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Sparklers -->
+<section id="sparklers">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Sparklers</h1>
+                <!-- <p class="productP">7-10cm | 10-20cm | 20+cm</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Sparklers/7 cm/3 in 1.png" class="img-fluid" alt="">
+                <figcaption>7cm Sparklers - 3 in 1 Sparklers</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Sparklers/12 cm/Crackling.png" class="img-fluid" alt="">
+                <figcaption>15cm Sparklers - Crackling</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Sparklers/30 cm/Red.png" class="img-fluid" alt="">
+                <figcaption>30cm Sparklers - Red</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/product/sparklers" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Chakkars -->
+<section id="chakkars">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Ground Chakkars</h1>
+                <!-- <p class="productP">7-10cm | 10-20cm | 20+cm</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Chakkar/GC Big 10.png" class="img-fluid" alt="">
+                <figcaption>Ground Chakkar Big 10</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Chakkar/gcdeluxe.png" class="img-fluid" alt="">
+                <figcaption>Ground Chakkar Deluxe</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Chakkar/gcspecial.png" class="img-fluid" alt="">
+                <figcaption>Ground Chakkar Special</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/product/chakkar" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Flower Pots -->
+<section id="flowerPots">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Flower Pots</h1>
+                <!-- <p class="productP">7-10cm | 10-20cm | 20+cm</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Flower Pots/Colourkoti Deluxe 1.png" class="img-fluid" alt="">
+                <figcaption>Colourkoti Deluxe</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Flower Pots/FP Big.png" class="img-fluid" alt="">
+                <figcaption>Flower Pots Big</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/Flower Pots/FP Special.png" class="img-fluid" alt="">
+                <figcaption>Flower Pots Special</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/product/flowerPots" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Twinkling Stars & Bijili -->
+<section id="flowerPots">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Twinkling Stars & Bijili</h1>
+                <!-- <p class="productP">7-10cm | 10-20cm | 20+cm</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/TSB/Chorsa Bijili Red 50.png" class="img-fluid" alt="">
+                <figcaption>Chorsa Bijili Red 50</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/TSB/Chorsa Bijili Stripped 50.png" class="img-fluid" alt="">
+                <figcaption>Chorsa Bijili Stripped 50</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/TSB/Twinkling Star.png" class="img-fluid" alt="">
+                <figcaption>Twinkling Star</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/product/TwinklingStarBijili" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Gift Box -->
+<section id="GiftBox">
+    <div class="container-fluid cf-gf reveal1 animate__animated">
+        <div class="row">
+            <div class="col-md-12">
+                <h1 class="productH1">Gift Box</h1>
+                <!-- <p class="productP">7-10cm | 10-20cm | 20+cm</p> -->
+            </div> 
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/giftBox/Ben 10.png" class="img-fluid" alt="">
+                <figcaption>Ben 10</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/giftBox/Jetix.png" class="img-fluid" alt="">
+                <figcaption>Jetix</figcaption>
+            </div>
+            <div class="col-md-4 mr-btn-45">
+                <img src="/images/giftBox/Pokemon.png" class="img-fluid" alt="">
+                <figcaption>Pokemon</figcaption>
+            </div>
+            <div class="col-md-12" style="text-align:center;">
+                <a href="/product/giftBox" class="btn btn-warning btn-sm">View More</a>
+            </div>
+        </div>
+    </div>
+</section>
